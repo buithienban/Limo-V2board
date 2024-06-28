@@ -1,0 +1,49 @@
+{
+    "name": " default ",
+    "description": " Hình nền Limo ",
+    "version": "2.6.1",
+    "images": "https://btbfast.com/truoc.jpeg",
+    "configs": [{
+        "label": "Màu chủ đề",
+        "placeholder": "Vui lòng chọn màu chủ đề",
+        "field_name": "theme_color",
+        "field_type": "select",
+        "select_options": {
+            "default": "Mặc định (màu xanh)",
+            "green": "Xanh Lá",
+            "black": "Đen",
+            "darkblue": "Xanh Dương"
+        },
+        "default_value": "default"
+    }, {
+        "label": "Hình Nền",
+        "placeholder": "Nhập URL hình nền",
+        "field_name": "background_url",
+        "field_type": "input"
+    }, {
+        "label": "Phong cách thanh bên",
+        "placeholder": "Vui lòng chọn",
+        "field_name": "theme_sidebar",
+        "field_type": "select",
+        "select_options": {
+            "light": "Sáng",
+            "dark": "Tối"
+        },
+        "default_value": "light"
+    }, {
+        "label": "Phong cách thanh đầu",
+        "placeholder": "Vui lòng chọn",
+        "field_name": "theme_header",
+        "field_type": "select",
+        "select_options": {
+            "light": "Sáng",
+            "dark": "Tối"
+        },
+        "default_value": "dark"
+    }, {
+        "label": "HTML chân trang tùy chỉnh",
+        "placeholder": "Khả năng thêm mã JS dịch vụ khách hàng, v.v.",
+        "field_name": "custom_html",
+        "field_type": "textarea"
+    }]
+}

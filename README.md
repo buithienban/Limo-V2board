@@ -1,4 +1,4 @@
-<img src="https://https://btbfast.com/truoc.jpeg" alt="logo" width="130" height="130" align="right"/>
+<img src="https://btbfast.com/truoc.jpeg" alt="logo" width="130" height="130" align="right"/>
 
 # *Limo*
 ## Demo

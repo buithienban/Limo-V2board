@@ -8,7 +8,7 @@
 [Click](https://btbfast.com)
 
 ## Sponsors
-Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
+Thanks to the open source project license provided by [fastvnteam](https://btbfast.com/)
 
 ## Community
 🔔Telegram Channel: [@limov2board](https://t.me/limov2board)  
